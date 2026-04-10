@@ -35,5 +35,8 @@ Para jogá-lo na sua máquina, você precisa rodá-lo em um servidor local (`loc
 5. Clique com o botão direito no arquivo `index.html` e selecione **"Open with Live Server"**.
 6. O jogo abrirá automaticamente no seu navegador padrão.
 
+## 🚀 Git Hub Pages
+Clique aqui para acessar o jogo no [GitHub pages.](https://guiazevedo04.github.io/loldle-remake/)
+
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo.
